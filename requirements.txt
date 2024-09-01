@@ -1,0 +1,54 @@
+# Deep learning framework
+tensorflow==2.14.0
+
+# Data manipulation and analysis library
+pandas
+
+# Google Drive downloader
+gdown
+
+# Data version control system
+dvc
+
+# Machine learning lifecycle management platform
+mlflow==2.15.0
+
+# Jupyter Notebook environment
+notebook
+
+# Numerical computing library
+numpy
+
+# Data visualization libraries
+matplotlib
+seaborn
+
+# Configuration management library
+python-box==6.0.2
+
+# YAML parser and emitter
+pyYAML
+
+# Progress bar library
+tqdm
+
+# Dependency management library
+ensure==1.0.2
+
+# Parallel computing library
+joblib
+
+# Type stubs for PyYAML
+types-PyYAML
+
+# Scientific computing library
+scipy
+
+# Web framework
+Flask
+
+# Cross-origin resource sharing library
+Flask-Cors
+
+# Install the current directory as an editable package
+-e .

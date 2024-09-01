@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/ridabayi/Kidney-Disease-Classification-mlflow/DVC
+Author: ridabayi
+Author-email: bayi.rida@gmail.com
+Project-URL: Bug Tracker, https://github.com/ridabayi/Kidney-Disease-Classification-mlflow/DVC/issues
+Description-Content-Type: text/markdown
+
+# dl_proj

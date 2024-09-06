@@ -47,6 +47,9 @@ list_of_files = [
     # Pipeline directory within the project source with an __init__.py file
     f"src/{project_name}/pipeline/__init__.py",
     
+    #
+    f"src/{project_name}/entity/__init__.py",
+
     # Constants directory within the project source with an __init__.py file
     f"src/{project_name}/constants/__init__.py",
     
